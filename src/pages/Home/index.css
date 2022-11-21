@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+	font-family: "roboto slab", serif;
+}
+.jumbotron {
+	background-image: url("../../assets/images/is.jpg");
+	background-size: cover;
+	height: 350px;
+}
+.btn-primary {
+	background-color: purple;
+	border-radius: 10px;
+	box-shadow: 0px 2px 2px black !important;
+}
+.footer {
+	line-height: 50px;
+	margin-bottom: 0px;
+}
